@@ -20,7 +20,7 @@ _Our data contains Women, Business and the Law (WBL) data for 190 economies in 2
 To access the data please click
 [DATA](https://datacatalog.worldbank.org/dataset/women-business-and-law)
 
-![](http://blogs.worldbank.org/sites/default/files/blogs-images/2020-01/indicators_graphic.png)
+![](http://blogs.worldbank.org/sites/default/files/blogs-images/2020-01/indicators_graphic.png){width=85%}
 
 
 ```{r,echo = FALSE,message=FALSE,warning=FALSE}
