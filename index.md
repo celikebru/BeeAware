@@ -24,7 +24,7 @@ To access the data please click
 
 ![](http://blogs.worldbank.org/sites/default/files/blogs-images/2020-01/indicators_graphic.png){width=85%}
 
-![](C:/Users/Ebru/Desktop/Mat381Proje/image/nocpr.jpg)
+![](https://github.com/celikebru/BeeAware/blob/gh-pages/a.jpg?raw=true)
 
 ![](C:/Users/Ebru/Desktop/Mat381Proje/image/noil.jpg)
 
