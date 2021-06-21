@@ -134,7 +134,7 @@ For this, we wanted to show the wbl index change from 1971 to 2021, which is on 
 
 ![](https://wbl.worldbank.org/content/dam/photos/780x439/2020/mar/WBL_Banner_022820_OP1.jpg)
 
-![](C:/Users/Ebru/Desktop/Mat381Proje/image/East Asia & Pacific.gif)
+![](https://github.com/celikebru/BeeAware/blob/gh-pages/East%20Asia%20&%20Pacific.gif?raw=true)
 
 ![](C:/Users/Ebru/Desktop/Mat381Proje/image/Europe & Central Asia.gif)
 
