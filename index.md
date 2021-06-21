@@ -24,7 +24,7 @@ To access the data please click
 
 ![](http://blogs.worldbank.org/sites/default/files/blogs-images/2020-01/indicators_graphic.png){width=85%}
 
-![](https://github.com/celikebru/BeeAware/blob/gh-pages/a.jpg?raw=true)
+![](C:/Users/Ebru/Desktop/Mat381Proje/image/nocpr.jpg)
 
 ![](C:/Users/Ebru/Desktop/Mat381Proje/image/noil.jpg)
 
@@ -91,6 +91,18 @@ To access the data please click
 ![](C:/Users/Ebru/Desktop/Mat381Proje/image/e3.jpg)
 
 ![](C:/Users/Ebru/Desktop/Mat381Proje/image/e4.jpg)
+
+![](C:/Users/Ebru/Desktop/Mat381Proje/image/a.jpg)
+
+![](C:/Users/Ebru/Desktop/Mat381Proje/image/a1.jpg)
+
+![](C:/Users/Ebru/Desktop/Mat381Proje/image/a2.jpg)
+
+![](C:/Users/Ebru/Desktop/Mat381Proje/image/a3.jpg)
+
+![](C:/Users/Ebru/Desktop/Mat381Proje/image/a4.jpg)
+
+![](C:/Users/Ebru/Desktop/Mat381Proje/image/a5.jpg)
 
 ![](C:/Users/Ebru/Desktop/Mat381Proje/image/ps.jpg)
 
