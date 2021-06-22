@@ -136,7 +136,7 @@ For this, we wanted to show the wbl index change from 1971 to 2021, which is on 
 
 ![](https://github.com/celikebru/BeeAware/blob/gh-pages/East%20Asia%20&%20Pacific.gif?raw=true)
 
-![](![image](https://user-images.githubusercontent.com/79646623/122831329-672f3e00-d2f2-11eb-88b2-b9f6e6936517.png))
+![](![image](https://github.com/celikebru/BeeAware/blob/gh-pages/Europe%20&%20Central%20Asia.gif?raw=true))
 
 ![](https://github.com/celikebru/BeeAware/blob/gh-pages/High%20income%20OECD.gif?raw=true)
 
